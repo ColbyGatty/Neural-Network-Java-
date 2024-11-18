@@ -62,8 +62,8 @@ After Main has completed execution and the network has completed the specified n
 
 2. **Download MNIST Dataset**:
     - Download the following files:
-        - `mnist_train.csv`
-        - `mnist_test.csv`
+        - [Download MNIST Test CSV](https://drive.google.com/file/d/1_RvijOx_D_xLbjZAnYmbiGlcCdFNuQGD/view?usp=drive_link)
+        - [Download MNIST Train CSV](https://drive.google.com/file/d/1XZMFHfxkcq0nsEY_-hEWtPn9oa8NqsbF/view?usp=drive_link)
     - Place these files into the `Data` directory you just created.
 
 ## Running the Project
@@ -93,7 +93,7 @@ After Main has completed execution and the network has completed the specified n
 - The initial (pre-training) success rate will be low, as the network hasn't learned yet.
 - After each epoch, the success rate should improve as the network learns from the training data.
 - After the specified number of epochs set in Main have run the network should be saved as output in the form of a .ser file.
-- Next ensure the DigitDrawUI class is pointing to the correct .ser file path for your saved network. This can be found toward the botom of the class.
+- Next ensure the DigitDrawUI class is pointing to the correct .ser file path for your saved network. This can be found toward the bottom of the class.
 - Run the DigitDrawUI class and the UI should pop up. Try drawing a 7 and hit submit to recieve the networks guess.
 - NOTE: The MNIST data set is only for hand drawn numbers 0 through 9 so the network will only be able to properly guess drawn digits within that range.
 
