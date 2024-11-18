@@ -74,7 +74,7 @@ After Main has completed execution and the network has completed the specified n
     - Open a terminal and navigate to the project directory.
     - Run the following command to compile the Java files:
       ```sh
-      javac -d out -sourcepath src src/network.Main.java
+      javac -d out -sourcepath src src/network/Main.java
       ```
 
 2. **Run the network.Main Class**:
