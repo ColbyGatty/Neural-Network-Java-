@@ -1,4 +1,5 @@
 # Neural Network Java Project
+![C8E7AFF7-C9C2-44D6-8A43-9529EB498655_1_102_a](https://github.com/user-attachments/assets/cae095e1-12be-4201-849e-40bbdeb7c15d)
 
 ## Overview
 
