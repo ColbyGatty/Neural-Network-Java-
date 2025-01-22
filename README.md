@@ -1,6 +1,6 @@
 # Neural Network Java Project
 
-- Click to watch the video
+- Click the thubmnail to watch the video
 [![Watch the demo](https://colbygattycreates.com/wp-content/uploads/2024/11/Screenshot-2024-11-28-at-4.44.43 PM.png?text=Click+to+Watch+Video)](https://colbygattycreates.com/wp-content/uploads/2025/01/Screen-Recording-2024-11-18-at-12.34.14 AM.mov)
 
 ## Overview
